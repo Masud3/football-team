@@ -1,0 +1,21 @@
+.item{
+    text-align: center;
+}
+.team-style{
+    height: 350px;
+    width: 300px;
+    background-color: lightsalmon;
+    margin: 10px;
+    border-radius: 20px;
+    float: left;
+}
+.img-style{
+    height: 150px;
+    padding: 10px;
+}
+#container{
+    text-align: center;
+}
+.link-style{
+    text-decoration: none;
+}
